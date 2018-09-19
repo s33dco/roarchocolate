@@ -1,0 +1,10 @@
+
+files changed from original install.
+
+
+catalogue/view/theme/default/template/common/footer.tpl
+
+catalogue/view/theme/default/template/product/category.tpl - removal of model number and star rating from td's
+
+catalogue/view/theme/default/template/product/product.tpl - removal of model number and star rating from td's
+															removal of reviews.
